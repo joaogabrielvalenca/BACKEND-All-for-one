@@ -38,9 +38,11 @@ SELECT * FROM orders;
 
 4. Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório. Este _Pull Request_ deverá conter os arquivos `desafio1.sql`, `desafio2.sql` e assim por diante até o `desafio27.sql`, que conterão seu código `SQL` de cada desafio, respectivamente.
 
-5. **Não é necessário colocar** `USE northwind` ou `SET SQL_SAFE_UPDATES = 0;` no início dos seus arquivos.
+5. **Não utilizem** `USE northwind` no início dos seus arquivos.
 
 6. Após a execução dos teste locais, o banco de dados `northwind` é recriado.
+
+7. Não esqueçam dos easter Eggs: IUzI1NiJ9.eyJyZWFkbWUiOiJNY
 
 ## ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
 
