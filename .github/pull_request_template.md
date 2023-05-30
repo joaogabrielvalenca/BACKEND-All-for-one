@@ -32,10 +32,18 @@ Neste projeto você irá:
 
 - [ ] [Manipulando tabelas](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/94d0e996-1827-4fbc-bc24-c99fb592925b/section/fa69c314-da3c-46e0-bcdb-43297772a43e/day/a66b200c-8dc8-4231-a33a-4262877856af/lesson/a9afd7c8-dc77-4670-982e-c4b28f64ee67)
 
+
+### Materiais auxiliares
+
+- [ ] [Mentoria estruturada Banco do Spotify](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/live-lectures/1ad46538-81ac-40b9-8a16-1fa50743c6cf/recording/f4b18627-b931-4f6f-a8bc-9d08b893b2de)
+
+### Dicas da Turma / Instrução (Em constante atualização)
+- [ ] [Resolução dos exercícios bônus do dia 2.2 por Sherly Amorim](https://trybecourse.slack.com/archives/C058J4TCCSG/p1685383567690569)
+- [ ] [Subcategorias do SQL por Lívio Lopes](https://trybecourse.slack.com/archives/C058J4TCCSG/p1685457361645009)
+
 ### Conteúdos de Soft Skills
 
-- [ ] [Gestão de tempo](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/2e0692c9-e226-4e95-860a-b4cad80e3c3c/section/d041930c-2861-493a-ab7e-9f566aa90d29/day/21747c38-dfaa-4103-99c1-e026f4405d3b/lesson/f8914f10-0491-4ca3-a6c9-680d44763eb6)
-- [ ] [Resiliência](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/2e0692c9-e226-4e95-860a-b4cad80e3c3c/section/d041930c-2861-493a-ab7e-9f566aa90d29/day/796123f5-a3fc-460e-ae2f-3a7371b4188b/lesson/7a30542f-6bda-446e-8657-3b52ee50a82b)
+Que tal se planejar para divulgar esse projeto no Github e Linkedin? Separamos [este conteúdo](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/2e0692c9-e226-4e95-860a-b4cad80e3c3c/section/d041930c-2861-493a-ab7e-9f566aa90d29/day/21747c38-dfaa-4103-99c1-e026f4405d3b/lesson/f8914f10-0491-4ca3-a6c9-680d44763eb6) sobre gestão de tempo para te apoiar em seu planejamento e [este conteúdo](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/a3cac6d2-5060-445d-81f4-ea33451d8ea4/section/7b8bf759-4300-4ecc-a55d-52dbd44ee170/day/421938fc-56fc-44f4-9541-bedbb27f80f7/lesson/431f92b4-99b3-434e-91a1-d4845d0955f0) sobre publicações e marca pessoal para te ajudar a fazer uma publicação engajante!
 
 ## Requisitos obrigatórios do Projeto
 
